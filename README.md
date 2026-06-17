@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dhana Prasath
+# Hi, I'm Dhanaprasath
 
 ### 🚀 Data Science & Machine Learning Enthusiast
 
