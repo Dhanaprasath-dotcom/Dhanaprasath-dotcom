@@ -1,53 +1,98 @@
-# Hi, I'm Dhanaprasath
+# Hi, I'm Dhanaprasath 👋
 
-### 🚀 Data Science & Machine Learning Enthusiast
+### 🎓 MCA Student | Machine Learning & Data Visualization Enthusiast
 
----
-
-## 🛠️ Skills
-
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-### Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+Passionate about Machine Learning, Data Analytics, and Data Visualization. I enjoy exploring datasets, building intelligent solutions, and continuously improving my skills through real-world projects.
 
 ---
 
-## 📚 Areas of Interest
+# 💻 Technical Skills
 
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Data Visualization
-- Machine Learning
-- Predictive Analytics
+## Programming Languages
+
+* Python
+
+## Web Technologies
+
+* HTML
+* CSS
+* JavaScript
+
+## Database
+
+* SQL
+
+## Data Science & Machine Learning
+
+* NumPy
+* Pandas
+* Plotly
+* Seaborn
+
+## Tools
+
+* Visual Studio Code (VS Code)
+* Tableau
 
 ---
 
-## 🚀 Current Learning
+# 🎯 Areas of Interest
 
-- Advanced Machine Learning
-- Deep Learning
-- AI Applications
-- Real-World Data Science Projects
-
----
-
-## 📂 Featured Projects
-
-- Employee Salary Prediction
-- Data Visualization Dashboard
-- Tourism Support Platform
-- Machine Learning Models
+* Machine Learning
+* Data Analytics
+* Data Visualization
+* Exploratory Data Analysis (EDA)
+* Predictive Analytics
+* Artificial Intelligence
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 🌱 Currently Learning
+
+* Deep Learning
+* Advanced Data Visualization
+* AI Applications
+* Real-World Machine Learning
+* Data Visualization Projects
+
+---
+
+# 📂 Projects
+
+### ♻️ AI-Based Waste Segregation System
+
+Developed an AI-powered image classification system that automatically identifies and classifies waste into categories such as paper, plastic, glass, cardboard, and bottles to support smart waste management.
+
+### 🏝️ Upcoming Project
+
+**Tourism Support Platform**
+
+A smart platform aimed at improving the travel experience by providing useful tourism information and intelligent recommendations.
+
+---
+
+# 🌍 Languages
+
+* Tamil
+* English
+* Malayalam
+
+---
+
+# 🎨 Beyond Technology
+
+Apart from programming, I also enjoy:
+
+* ✍️ Writing
+* 🎼 Lyric Writing
+
+---
+
+# 📫 Connect With Me
+
+* 📧 Email: [prasanth1682005@gmail.com](mailto:prasanth1682005@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/dhanaprasath-r-574953351
+
+---
+
+⭐ *Always learning, always building, and always improving.*
