@@ -1,52 +1,48 @@
 <div align="center">
-<table><tr><td valign="middle">
 
 # DHANAPRASATH R
 ### ASPIRING MACHINE LEARNING ENGINEER • AI DEVELOPER
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&center=true&vCenter=true&width=560&height=40&lines=%3E%3E+BUILDING+REAL-WORLD+AI;DATA+%E2%86%92+MODEL+%E2%86%92+INSIGHT+%E2%86%92+IMPACT;MACHINE+LEARNING+%7C+DEEP+LEARNING+%7C+COMPUTER+VISION" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=500&center=true&vCenter=true&width=760&height=45&lines=%3E%3E%3E+INITIALIZING+AI+WORKSPACE;MACHINE+LEARNING+%7C+DEEP+LEARNING+%7C+COMPUTER+VISION;BUILDING+PRACTICAL+AI+SYSTEMS" alt="Animated AI developer introduction" />
 
-</td><td width="210" valign="middle">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="190" alt="Developer coding animation" />
-</td></tr></table>
-
-<a href="#-about-me"><img src="https://img.shields.io/badge/ABOUT%20ME-2563EB?style=for-the-badge" alt="About Me" /></a>
-<a href="#-career"><img src="https://img.shields.io/badge/CAREER-0F172A?style=for-the-badge" alt="Career" /></a>
-<a href="#-skills"><img src="https://img.shields.io/badge/SKILLS-06B6D4?style=for-the-badge" alt="Skills" /></a>
-<a href="#-ai-projects"><img src="https://img.shields.io/badge/PROJECTS-2563EB?style=for-the-badge" alt="Projects" /></a>
-<a href="#-statistical-report"><img src="https://img.shields.io/badge/STATISTICS-0F172A?style=for-the-badge" alt="Statistics" /></a>
-<a href="#-experience"><img src="https://img.shields.io/badge/EXPERIENCE-06B6D4?style=for-the-badge" alt="Experience" /></a>
-<a href="#-contact"><img src="https://img.shields.io/badge/CONTACT-2563EB?style=for-the-badge" alt="Contact" /></a>
+<a href="#about"><img src="https://img.shields.io/badge/ABOUT-111827?style=for-the-badge" alt="About" /></a>
+<a href="#career"><img src="https://img.shields.io/badge/CAREER-1D4ED8?style=for-the-badge" alt="Career" /></a>
+<a href="#skills"><img src="https://img.shields.io/badge/SKILLS-0891B2?style=for-the-badge" alt="Skills" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-7C3AED?style=for-the-badge" alt="Projects" /></a>
+<a href="#analytics"><img src="https://img.shields.io/badge/ANALYTICS-DB2777?style=for-the-badge" alt="Analytics" /></a>
+<a href="#experience"><img src="https://img.shields.io/badge/EXPERIENCE-059669?style=for-the-badge" alt="Experience" /></a>
+<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-EA580C?style=for-the-badge" alt="Contact" /></a>
 
 <br><br>
+
 <a href="https://github.com/Dhanaprasath-dotcom"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/dhanaprasath-r-574953351"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/R_Dhana_prasath/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="mailto:prasanth1682005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/u/R_Dhana_prasath/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+
 </div>
 
 ---
 
-## 🧠 ABOUT ME
+<a id="about"></a>
+## 🧠 ABOUT
 
-I am an MCA student focused on **Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision and Data Analytics**. I enjoy turning datasets and images into practical systems, predictions and useful insights.
+**MCA STUDENT • MACHINE LEARNING • AI • DATA ANALYTICS**
 
-**DATA → PREPROCESS → TRAIN → EVALUATE → DEPLOY → ANALYZE**
+I build practical, data-driven applications using Python, machine learning, deep learning and computer vision. My current direction is to turn academic work into useful real-world AI systems.
 
----
-
+<a id="career"></a>
 ## 🎯 CAREER
 
-**TARGET ROLE:** MACHINE LEARNING ENGINEER  
-**INTERESTS:** AI • ML • DL • COMPUTER VISION • AGRICULTURE AI • REAL-TIME ANALYTICS  
-**APPROACH:** BUILD PRACTICAL PROJECTS • MEASURE RESULTS • CONTINUOUSLY IMPROVE
+**TARGET:** MACHINE LEARNING ENGINEER  
+**FOCUS:** AI • ML • DL • COMPUTER VISION • AGRICULTURE AI • ANALYTICS  
+**MINDSET:** LEARN → BUILD → TEST → ANALYZE → DEPLOY → IMPROVE
 
----
-
-## 🛠️ SKILLS
+<a id="skills"></a>
+## ⚙️ SKILLS
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,flask,git,github,vscode,linux,pytorch,tensorflow,opencv,docker&perline=7" alt="Real technology logos" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,flask,git,github,vscode,linux,pytorch,tensorflow,opencv,docker&perline=7" alt="Technology logos" />
 <br><br>
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -54,117 +50,79 @@ I am an MCA student focused on **Machine Learning, Deep Learning, Artificial Int
 <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </div>
 
----
+<a id="projects"></a>
+## 🚀 PROJECTS
 
-## 🚀 AI PROJECTS
+| PROJECT | DOMAIN | CORE TECHNOLOGY |
+|---|---|---|
+| 🌿 **SMART VEGETATION SYSTEM** | Agriculture AI | ML • Data Analytics |
+| ♻️ **SMART WASTE SEGREGATION SYSTEM** | Computer Vision | CNN • Image Processing |
+| 🌾 **CROP YIELD ANALYSIS** | Agriculture Analytics | EDA • Python |
+| 🧠 **DL-CNN** | Deep Learning | CNN • Deep Learning |
 
-### 🌿 SMART VEGETATION SYSTEM
-Agriculture-oriented AI system for vegetation/crop analysis using machine learning and data-driven insights.
+### 🌾 CROP YIELD ANALYSIS
+<a href="https://github.com/Dhanaprasath-dotcom/EDA-crop-yield"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Crop Yield repository" /></a>
 
-### ♻️ SMART WASTE SEGREGATION SYSTEM
-Computer-vision system for image-based waste classification and smarter segregation using CNN concepts.
+### 🧠 DL-CNN
+<a href="https://github.com/Dhanaprasath-dotcom/DL-CNN"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="DL CNN repository" /></a>
 
-### 🌾 CROP YIELD DATA ANALYSIS
-EDA and agricultural analytics using crop-yield data.
-
-<a href="https://github.com/Dhanaprasath-dotcom/EDA-crop-yield"><img src="https://img.shields.io/badge/OPEN%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Crop Yield Repository" /></a>
-
-### 🧠 DEEP LEARNING / CNN
-Hands-on CNN and deep-learning experimentation.
-
-<a href="https://github.com/Dhanaprasath-dotcom/DL-CNN"><img src="https://img.shields.io/badge/OPEN%20REPOSITORY-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="DL CNN Repository" /></a>
-
----
-
-## 📊 STATISTICAL REPORT
-
-### GITHUB STATISTICS
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanaprasath-dotcom&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="180" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanaprasath-dotcom&layout=donut&hide_border=true&theme=transparent" height="180" alt="Language distribution" />
-<br><br>
-<img src="https://streak-stats.demolab.com?user=Dhanaprasath-dotcom&hide_border=true&theme=transparent" alt="GitHub streak statistics" />
-</div>
-
-### 📈 COLORFUL GRAPH ANALYTICS
+<a id="analytics"></a>
+## 📊 ANALYTICS LAB
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanaprasath-dotcom&bg_color=0d1117&color=58a6ff&line=00d4ff&point=ffffff&area_color=1f6feb&area=true&hide_border=false&custom_title=DHANAPRASATH%20R%20%E2%80%94%20REAL-TIME%20CONTRIBUTION%20ANALYTICS" width="96%" alt="Colorful GitHub contribution line graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanaprasath-dotcom&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanaprasath-dotcom&layout=donut&hide_border=true&theme=tokyonight" height="180" alt="Language distribution" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanaprasath-dotcom&bg_color=0d1117&color=7ee787&line=ff7b72&point=ffffff&area_color=238636&area=true&hide_border=false&custom_title=PROJECT%20ACTIVITY%20%E2%80%94%20GRAPH%20ANALYSIS" width="96%" alt="Colorful project activity graph" />
+<img src="https://streak-stats.demolab.com?user=Dhanaprasath-dotcom&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanaprasath-dotcom&bg_color=0b1020&color=8b5cf6&line=22d3ee&point=f472b6&area_color=312e81&area=true&hide_border=true&custom_title=DHANAPRASATH%20R%20%E2%80%94%20CONTRIBUTION%20FLOW" width="96%" alt="Colorful contribution flow graph" />
 
 </div>
 
-### 📌 ANALYTICAL VIEW
+### 📐 CAPACITY MODEL
 
-**GRAPH 01 — CONTRIBUTION TREND**  
-Dynamic GitHub contribution activity over time.
+**REPOSITORIES** → **LANGUAGE MIX** → **CONTRIBUTION CONSISTENCY** → **PROJECT ACTIVITY**
 
-**GRAPH 02 — PROJECT ACTIVITY**  
-Dynamic repository activity visualization based on the GitHub activity feed.
+This dashboard intentionally uses live GitHub metrics rather than invented percentages, so the visual report changes as the profile grows.
 
-**CAPACITY VIEW**  
-Repository activity + language distribution + contribution consistency are presented together as a portfolio-level analytical view.
-
-> **NOTE:** These graphs use live GitHub activity data. No artificial performance numbers are inserted into the report.
-
----
-
+<a id="experience"></a>
 ## 💼 EXPERIENCE
 
 ### MACHINE LEARNING INTERN — 1M1B
 **MAY 2026 – JUNE 2026**
 
-- Machine Learning fundamentals and workflows
-- Data preprocessing and model evaluation
-- 🌿 Smart Vegetation System — Agriculture AI
-- ♻️ Smart Waste Segregation System — Computer Vision / CNN
-- 📊 Data analysis and visualization
+Worked through ML workflows including data preparation, model development, evaluation and AI project implementation. Project exposure included **Smart Vegetation System** and **Smart Waste Segregation System**.
 
----
-
+<a id="education"></a>
 ## 🎓 EDUCATION
 
-| QUALIFICATION | INSTITUTION | DURATION | RESULT |
-|---|---|---|---|
-| MCA | Sree Saraswathi Thyagaraja College | 2025–2027 | 72.7% up to Sem II |
-| B.Sc Computer Science | Sree Saraswathi Thyagaraja College | 2022–2025 | 61% |
-| HSC | Tmt. Rukmaniammal Higher Secondary School | 2021–2022 | 62.16% |
-| SSLC | Tmt. Rukmaniammal Higher Secondary School | 2019–2020 | 75% |
+**MCA** — Sree Saraswathi Thyagaraja College • 2025–2027  
+**B.Sc Computer Science** — Sree Saraswathi Thyagaraja College • 2022–2025
 
----
-
+<a id="certifications"></a>
 ## 📜 CERTIFICATIONS
 
 🏆 Tata — GenAI Powered Data Analytics Job Simulation — Forage  
-📚 LinkedIn Learning — 20+ courses in AI, ML, Python and Data Analytics
-
----
+📚 LinkedIn Learning — AI • ML • Python • Data Analytics
 
 ## 🔄 CONTINUOUS LEARNING
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=400&center=true&vCenter=true&width=720&height=45&lines=PYTHON+%26+SQL+%E2%86%92+DATA+ANALYSIS;MACHINE+LEARNING+%E2%86%92+DEEP+LEARNING;COMPUTER+VISION+%E2%86%92+NLP+%26+LLMs;MODEL+DEPLOYMENT+%E2%86%92+DOCKER+%E2%86%92+MLOps" alt="Continuous learning animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1900&pause=450&center=true&vCenter=true&width=760&height=45&lines=DATA+ANALYSIS+%E2%86%92+MACHINE+LEARNING;MACHINE+LEARNING+%E2%86%92+DEEP+LEARNING;COMPUTER+VISION+%E2%86%92+REAL-WORLD+AI;DEPLOYMENT+%E2%86%92+MLOps+%E2%86%92+PRODUCTION" alt="Continuous learning animation" />
 </div>
 
----
-
-## 🤝 BEYOND CODE
-
-✍️ Tamil Poetry & Creative Writing • 📷 Photography • 🌾 Farming • ✈️ Traveling
-
----
-
+<a id="contact"></a>
 ## 📬 CONTACT
 
 <div align="center">
-<a href="mailto:prasanth1682005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/dhanaprasath-r-574953351"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Dhanaprasath-dotcom"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://leetcode.com/u/R_Dhana_prasath/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:prasanth1682005@gmail.com"><img src="https://img.shields.io/badge/SEND%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" /></a>
+<a href="https://www.linkedin.com/in/dhanaprasath-r-574953351"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Dhanaprasath-dotcom"><img src="https://img.shields.io/badge/VIEW%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 ---
@@ -173,6 +131,6 @@ Repository activity + language distribution + contribution consistency are prese
 
 **LEARN • BUILD • ANALYZE • DEPLOY • IMPROVE**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06B6D4,50:2563EB,100:0F172A&section=footer&animation=fadeIn" width="100%" alt="Footer animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7C3AED,50:0891B2,100:059669&section=footer&animation=fadeIn" width="100%" alt="Animated footer" />
 
 </div>
