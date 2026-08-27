@@ -81,32 +81,35 @@ Hands-on CNN and deep-learning experimentation.
 ### GITHUB STATISTICS
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dhanaprasath-dotcom&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="180" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanaprasath-dotcom&layout=donut&hide_border=true&theme=transparent" height="180" alt="Language distribution donut chart" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanaprasath-dotcom&layout=donut&hide_border=true&theme=transparent" height="180" alt="Language distribution" />
 <br><br>
 <img src="https://streak-stats.demolab.com?user=Dhanaprasath-dotcom&hide_border=true&theme=transparent" alt="GitHub streak statistics" />
 </div>
 
-### 📈 REAL-TIME LINE ANALYSIS
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanaprasath-dotcom&hide_border=true&area=true&custom_title=REAL-TIME%20GITHUB%20ACTIVITY" width="96%" alt="GitHub activity line graph" />
-</div>
-
-### 📊 PROJECT ANALYTICS
-
-> **FIXED:** Removed Mermaid pie/bar charts from the README because GitHub rendering can be inconsistent and was the source of the analytics-section error. The statistical report now uses stable image-based GitHub analytics only.
+### 📈 COLORFUL GRAPH ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanaprasath-dotcom&repo=EDA-crop-yield&hide_border=true&theme=transparent" height="140" alt="Crop Yield repository statistics" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanaprasath-dotcom&repo=DL-CNN&hide_border=true&theme=transparent" height="140" alt="DL CNN repository statistics" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanaprasath-dotcom&bg_color=0d1117&color=58a6ff&line=00d4ff&point=ffffff&area_color=1f6feb&area=true&hide_border=false&custom_title=DHANAPRASATH%20R%20%E2%80%94%20REAL-TIME%20CONTRIBUTION%20ANALYTICS" width="96%" alt="Colorful GitHub contribution line graph" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanaprasath-dotcom&hide_border=true&area=true&custom_title=PROJECT%20ACTIVITY%20ANALYSIS" width="96%" alt="Project activity analysis" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanaprasath-dotcom&bg_color=0d1117&color=7ee787&line=ff7b72&point=ffffff&area_color=238636&area=true&hide_border=false&custom_title=PROJECT%20ACTIVITY%20%E2%80%94%20GRAPH%20ANALYSIS" width="96%" alt="Colorful project activity graph" />
 
 </div>
 
-**REPORT MODEL:** GitHub profile metrics → repository statistics → language distribution → contribution activity → project activity.
+### 📌 ANALYTICAL VIEW
+
+**GRAPH 01 — CONTRIBUTION TREND**  
+Dynamic GitHub contribution activity over time.
+
+**GRAPH 02 — PROJECT ACTIVITY**  
+Dynamic repository activity visualization based on the GitHub activity feed.
+
+**CAPACITY VIEW**  
+Repository activity + language distribution + contribution consistency are presented together as a portfolio-level analytical view.
+
+> **NOTE:** These graphs use live GitHub activity data. No artificial performance numbers are inserted into the report.
 
 ---
 
