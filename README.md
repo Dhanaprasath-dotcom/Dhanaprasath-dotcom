@@ -59,7 +59,7 @@ I am an MCA student focused on **Machine Learning, Deep Learning, Artificial Int
 ## 🚀 AI PROJECTS
 
 ### 🌿 SMART VEGETATION SYSTEM
-Agriculture-oriented AI concept for vegetation/crop analysis using machine learning and data-driven insights.
+Agriculture-oriented AI system for vegetation/crop analysis using machine learning and data-driven insights.
 
 ### ♻️ SMART WASTE SEGREGATION SYSTEM
 Computer-vision system for image-based waste classification and smarter segregation using CNN concepts.
@@ -91,26 +91,22 @@ Hands-on CNN and deep-learning experimentation.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanaprasath-dotcom&hide_border=true&area=true&custom_title=REAL-TIME%20GITHUB%20ACTIVITY" width="96%" alt="GitHub activity line graph" />
 </div>
 
-### 📊 PROJECT BAR + PIE ANALYSIS
+### 📊 PROJECT ANALYTICS
 
-```mermaid
-xychart-beta
-    title "PROJECT FOCUS INDICATOR"
-    x-axis [AI, ML, DL, CV, DATA]
-    y-axis "FOCUS" 0 --> 100
-    bar [90, 85, 75, 80, 70]
-```
+> **FIXED:** Removed Mermaid pie/bar charts from the README because GitHub rendering can be inconsistent and was the source of the analytics-section error. The statistical report now uses stable image-based GitHub analytics only.
 
-```mermaid
-pie title TECHNOLOGY FOCUS
-    "MACHINE LEARNING" : 35
-    "DEEP LEARNING" : 25
-    "COMPUTER VISION" : 20
-    "DATA ANALYTICS" : 10
-    "WEB / DEPLOYMENT" : 10
-```
+<div align="center">
 
-*GitHub cards and activity are dynamic GitHub data; the project-focus charts represent portfolio focus indicators.*
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanaprasath-dotcom&repo=EDA-crop-yield&hide_border=true&theme=transparent" height="140" alt="Crop Yield repository statistics" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanaprasath-dotcom&repo=DL-CNN&hide_border=true&theme=transparent" height="140" alt="DL CNN repository statistics" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanaprasath-dotcom&hide_border=true&area=true&custom_title=PROJECT%20ACTIVITY%20ANALYSIS" width="96%" alt="Project activity analysis" />
+
+</div>
+
+**REPORT MODEL:** GitHub profile metrics → repository statistics → language distribution → contribution activity → project activity.
 
 ---
 
